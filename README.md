@@ -1,8 +1,8 @@
-## TIANA 2.0
+## Tannu
 THIS IS GROUP MANAGER BOT.
 # DEPLOYMENT
 ### CLICK BELOW IMAGE TO DEPLOY
-[![Deploy](https://telegra.ph/file/a1887512c6b0f55c9dc5a.jpg)](https://heroku.com/deploy?template=https://github.com/prince301102/tiana-2.0.git)
+[![Deploy](https://telegra.ph/file/8c22c038065667062da73.jpg)](https://heroku.com/deploy?template=https://github.com/prince301102/tiana-2.0.git)
 
 ## DEPLOY HERE 
 
@@ -13,7 +13,7 @@ The easiest way to deploy this Bot
 Credits - [Imteyaz](https://t.me/Imteyaz_king)
 
 ### TELEGRAM
-Check me on [TELEGRAM](https://t.me/tiana_prince_bot)
+Check me on [TELEGRAM](https://t.me/Tannu_Imteyaz_bot)
 
 <details>
 <summary> CREDITS </summary>
