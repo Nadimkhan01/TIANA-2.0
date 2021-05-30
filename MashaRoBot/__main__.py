@@ -98,7 +98,7 @@ buttons = [
             text="⚜️CHANNEL⚜️", url="https://t.me/imteyaz_support_logs"),
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/Imteyaz_support"),
+        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"),
     ], 
     
 ]
