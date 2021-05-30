@@ -13,7 +13,7 @@ The easiest way to deploy this Bot
 Credits - [Imteyaz](https://t.me/Imteyaz_king)
 
 ### TELEGRAM
-Check me on [TELEGRAM](https://t.me/Tannu_Imteyaz_bot)
+Check me on [TELEGRAM](https://t.me/Tannu_Imteyaz_Bot)
 
 <details>
 <summary> CREDITS </summary>
