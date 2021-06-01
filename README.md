@@ -19,3 +19,4 @@ Check me on [TELEGRAM](https://t.me/Tannu_Imteyaz_Bot)
 <summary> CREDITS </summary>
 @Imteyaz_king
 </details>
+@Dil_nawaj_khan
