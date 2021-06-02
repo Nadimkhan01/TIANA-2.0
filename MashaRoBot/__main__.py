@@ -74,12 +74,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 
-PM_START_TEXT = """Hello, My name is ༒ 𝙏𝘼𝙉𝙉𝙐༒
+PM_START_TEXT = """Hello, My name is ༒ LOVE TALKS BOT༒
 
 Hey , I am a Group Manager,
 Made specially for Managing Groups.
+Love talks bot.
+Welcome my friend
+Full support this group in bio link
 
-This Pro bot was made by 𝙄𝙢𝙩𝙚𝙮𝙖𝙯_𝙠𝙞𝙣𝙜 [Imteyaz](https://t.me/Imteyaz_king)
+This Pro bot was made by @Dil_nawaj_khan [Love talks bot](https://t.me/Dil_nawaj_khan)
 Click /help or use button below to find out more about how to use me to my full potential."""
 
 buttons = [
