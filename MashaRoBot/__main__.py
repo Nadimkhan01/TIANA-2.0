@@ -95,18 +95,18 @@ buttons = [
         InlineKeyboardButton(
             text="♥️MY BF💗", url="http://t.me/Imteyaz_king"),
         InlineKeyboardButton(
-            text="⚜️CHANNEL⚜️", url="https://t.me/imteyaz_support_logs"),
+            text="⚜️ SUPPORT GROUP⚜️", url="https://t.me/love_talks_support"),
     ],
     [  
-        InlineKeyboardButton(text="👥SUPPORT GROUP👥", url="https://t.me/FRIENDS_FOREVER_OFFICIAL_CHAT"),
+        InlineKeyboardButton(text="👥 OFFICIAL GROUP👥", url="https://t.me/love_talks_famly"),
     ], 
     
 ]
 
 HELP_STRINGS = """
-༒ 𝙏𝘼𝙉𝙉𝙐 ༒ WITH NEW FEATURES 
+*•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•* WITH NEW FEATURES 
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF 𝙏𝘼𝙉𝙉𝙐*꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF *•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•**꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
@@ -114,7 +114,7 @@ HELP_STRINGS = """
 """
 
 
-DONATE_STRING ="""CONTACT ME ON @Imteyaz_king"""
+DONATE_STRING ="""CONTACT ME ON @Dil_nawaj_khan"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -359,7 +359,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *𝙏𝘼𝙉𝙉𝙐*, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm **•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•**, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
@@ -368,7 +368,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
                  ❍ I check for admins' permissions before executing any command and more stuffs
                  \n_Masha's licensed under the GNU General Public License v3.0_
                  Here is the [💾Repository](https://github.com/Imteyazking/tiana-2.0).
-                 If you have any question about masha, let us know at @Imteyaz_support.""",
+                 If you have any question about masha, let us know at @love_talks_support.""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -394,7 +394,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *𝙏𝘼𝙉𝙉𝙐 BOT*
+            text=""" Hi..🤗 I'm *Love Talk BOT*
                  \nHere is the [Source Code](https://GitHub.com/Imteyazking/tiana-2.0) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=False,
