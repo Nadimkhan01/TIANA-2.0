@@ -85,15 +85,15 @@ Click /help or use button below to find out more about how to use me to my full 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ༒ 𝙏𝘼𝙉𝙉𝙐 ༒ TO YOUR GROUP ➕️", url="t.me/Tannu_Imteyaz_bot?startgroup=true"),
+            text="➕️ ADD ༒ LOVE TALKS BOT ༒ TO YOUR GROUP ➕️", url="t.me/Love_talks_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="📱 Information", callback_data="𝙏𝘼𝙉𝙉𝙐_"),
+        InlineKeyboardButton(text="📱 Information", callback_data="LOVE TALKS BOT_"),
         InlineKeyboardButton(text="⚜️HELP", callback_data="help_back"),
     ],
     [
         InlineKeyboardButton(
-            text="♥️MY BF💗", url="http://t.me/Imteyaz_king"),
+            text="Co_Owner", url="http://t.me/Imteyaz_king"),
         InlineKeyboardButton(
             text="⚜️ SUPPORT GROUP⚜️", url="https://t.me/love_talks_support"),
     ],
@@ -101,12 +101,14 @@ buttons = [
         InlineKeyboardButton(text="👥 OFFICIAL GROUP👥", url="https://t.me/love_talks_famly"),
     ], 
     
-]
+
+    ],
+    [  InlineKeyboardButton(text="⚔️ CREATOR ⚔️",  url="https://t.me/Dil_nawaj_khan"),
 
 HELP_STRINGS = """
-*•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•* WITH NEW FEATURES 
+LOVE TALKS BOT WITH NEW FEATURES 
 
-꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF *•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•**꧂
+꧁*CHECK ALL BUTTON BELOW TO EXPLORE EVERY COMMANDS OF LOVE TALKS BOT꧂
 
 𖣘 *All commands can either be used with* `/` *or* `!`.
 
@@ -359,7 +361,7 @@ def Masha_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "masha_":
         query.message.edit_text(
-            text=""" ℹ️ I'm **•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•**, a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I'm LOVE TALKS BOT, a powerful group management bot built to help you manage your group easily.
                  ❍ I can restrict users.
                  ❍ I can greet users with customizable welcome messages and even set a group's rules.
                  ❍ I have an advanced anti-flood system.
