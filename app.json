@@ -1,6 +1,6 @@
 {
-      "name": "Tannu",
-      "logo": "https://telegra.ph/file/8c22c038065667062da73.jpg",
+      "name": "*•.¸♡ᶫᵒᵛᵉ𝗧𝗮𝗹𝗸𝘀♡¸.•*",
+      "logo": "https://telegra.ph/file/cbcc8a9672485aa36ddf3.jpg",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -59,7 +59,7 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Imteyaz_king"
+         "value": "@Dil_nawaj_khan"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
