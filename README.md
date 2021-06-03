@@ -1,4 +1,4 @@
-## Tannu
+## Love talks bot
 THIS IS GROUP MANAGER BOT.
 # DEPLOYMENT
 ### CLICK BELOW IMAGE TO DEPLOY
